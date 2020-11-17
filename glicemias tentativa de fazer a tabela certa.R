@@ -45,8 +45,9 @@ glicemias_pivot_wider %>%
 
 glicemias_pivot_wider %>% 
   group_by(Data)
+
 glicemias_filtd %>% 
-  write_excel_csv2(here::here("planilhas salvas", "glicemias_filtradas.csv", na = " ")) # mesmo caso do primeiro read_csv
+  write_excel_csv2(here::here("planilhas salvas", "glicemias_filtradas_out_nov.csv", na = " ")) # mesmo caso do primeiro read_csv
 
 
 #glicemias_filtd %>% 
@@ -61,8 +62,9 @@ library(writexl)
 #glicemias_filtd %>% 
 #  write_xlsx("E:/Users/pedro/Documents/ADM/ESTATISTICA/R/GLICEMIAS/glicemias_filtradas_x.xlsx")
 
-glicemias_filtd %>% 
-  write_xlsx(here::here("planilhas salvas", "glicemias_filtradas_x.xlsx")) # mesmissimo caso do wd pessoal
+glicemias_filtd %>%
+  filter(Data >= "2020-10-10") %>% 
+  write_xlsx(here::here("planilhas salvas", "glicemias_filtradas_x2.xlsx")) # mesmissimo caso do wd pessoal
 
 
 

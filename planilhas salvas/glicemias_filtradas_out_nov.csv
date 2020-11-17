@@ -1,0 +1,740 @@
+﻿Data;Hora;Identificadores;Glicemia
+2020-11-10;08:20:18;Jejuar;94
+2020-11-10;03:45:48;Hora de dormir;172
+2020-11-10;01:00:11;NA;243
+2020-11-09;18:06:26;Antes da refeição,Jantar;126
+2020-11-09;16:11:49;Snack,Antes da refeição;133
+2020-11-09;12:17:29;Almoço,Antes da refeição;131
+2020-11-09;11:22:57;NA;53
+2020-11-09;08:46:19;Depois da refeição,Pequeno-almoço;235
+2020-11-09;08:25:44;Depois da refeição,Pequeno-almoço;250
+2020-11-09;07:56:04;Depois da refeição,Pequeno-almoço;203
+2020-11-09;07:14:28;Jejuar;72
+2020-11-09;06:24:07;NA;101
+2020-11-09;01:44:31;Hora de dormir;136
+2020-11-08;22:34:54;NA;101
+2020-11-08;19:29:20;NA;123
+2020-11-08;17:59:58;Antes da refeição,Jantar;83
+2020-11-08;17:10:23;NA;94
+2020-11-08;13:53:46;NA;146
+2020-11-08;13:52:05;NA;127
+2020-11-08;11:25:25;Almoço,Antes da refeição;117
+2020-11-08;09:19:49;Jejuar;120
+2020-11-08;02:08:23;Hora de dormir;272
+2020-11-07;22:23:46;NA;83
+2020-11-07;17:56:10;Antes da refeição,Jantar;78
+2020-11-07;16:53:31;NA;83
+2020-11-07;12:26:50;Almoço,Antes da refeição;185
+2020-11-07;08:36:39;Jejuar;75
+2020-11-07;02:57:03;Hora de dormir;151
+2020-11-06;22:31:28;NA;241
+2020-11-06;18:02:50;Antes da refeição,Jantar;191
+2020-11-06;15:38:39;NA;106
+2020-11-06;12:13:59;Almoço,Sensação de hipoglicemia,Antes da refeição;57
+2020-11-06;09:24:32;NA;96
+2020-11-06;08:11:50;Jejuar;75
+2020-11-06;02:10:12;Hora de dormir;193
+2020-11-05;22:37:33;NA;175
+2020-11-05;17:53:49;Antes da refeição,Jantar;147
+2020-11-05;16:56:18;NA;190
+2020-11-05;11:47:36;Almoço,Antes da refeição;77
+2020-11-05;07:36:08;Jejuar;75
+2020-11-05;03:13:31;Hora de dormir;217
+2020-11-05;01:14:55;NA;130
+2020-11-04;22:45:16;NA;100
+2020-11-04;20:25:35;NA;145
+2020-11-04;16:46:37;NA;148
+2020-11-04;12:43:59;Almoço,Antes da refeição;103
+2020-11-04;10:03:28;Depois da refeição,Pequeno-almoço;236
+2020-11-04;02:16:55;Hora de dormir;185
+2020-11-03;20:21:16;Depois da refeição,Jantar;277
+2020-11-03;17:42:38;Antes da refeição,Jantar;111
+2020-11-03;13:54:16;Almoço,Depois da refeição;251
+2020-11-03;12:09:34;Almoço,Antes da refeição;260
+2020-11-03;07:49:29;Jejuar;74
+2020-11-03;02:23:53;Hora de dormir;205
+2020-11-03;00:52:12;NA;206
+2020-11-02;23:57:31;NA;219
+2020-11-02;18:18:50;Antes da refeição,Jantar;120
+2020-11-02;15:40:08;NA;142
+2020-11-02;11:42:27;Almoço,Antes da refeição;95
+2020-11-02;03:07:50;Hora de dormir;168
+2020-11-02;00:03:22;NA;243
+2020-11-01;18:41:39;Antes da refeição,Jantar;245
+2020-11-01;13:01:00;Almoço,Antes da refeição;208
+2020-11-01;10:13:18;Depois da refeição,Pequeno-almoço;70
+2020-11-01;09:32:59;Sensação de hipoglicemia,Jejuar;62
+2020-11-01;03:09:27;Hora de dormir;221
+2020-10-31;18:48:48;Sensação de hipoglicemia,Antes da refeição,Jantar;53
+2020-10-31;14:20:12;Almoço,Depois da refeição;193
+2020-10-31;11:54:35;Almoço,Antes da refeição;133
+2020-10-31;09:34:53;Sensação de hipoglicemia,Jejuar;55
+2020-10-31;03:24:21;Hora de dormir;223
+2020-10-31;00:59:42;NA;236
+2020-10-30;21:37:40;Depois da refeição;126
+2020-10-30;19:06:51;Depois da refeição;197
+2020-10-30;00:29:35;Hora de dormir;208
+2020-10-29;19:07:16;Depois da refeição;133
+2020-10-29;12:18:56;Antes da refeição;63
+2020-10-29;09:43:31;Antes da refeição;65
+2020-10-29;02:20:48;Hora de dormir;171
+2020-10-29;00:47:21;Hora de dormir;69
+2020-10-28;23:11:56;Depois da refeição;207
+2020-10-28;19:31:47;Depois da refeição;140
+2020-10-28;14:16:50;Depois da refeição;168
+2020-10-28;11:45:11;Antes da refeição;58
+2020-10-28;09:03:54;Depois da refeição;164
+2020-10-28;01:59:22;NA;190
+2020-10-28;00:00:48;Hora de dormir;92
+2020-10-27;19:35:13;Depois da refeição;221
+2020-10-27;17:06:15;Depois da refeição;144
+2020-10-27;12:16:26;Antes da refeição;90
+2020-10-27;09:26:15;Depois da refeição;173
+2020-10-27;06:40:23;Jejuar;53
+2020-10-27;03:40:16;Hora de dormir;203
+2020-10-27;01:02:38;NA;100
+2020-10-26;20:07:21;Depois da refeição;75
+2020-10-26;18:44:42;Antes da refeição;143
+2020-10-26;16:05:36;Depois da refeição;88
+2020-10-26;12:11:32;Antes da refeição;157
+2020-10-26;10:08:49;Depois da refeição;49
+2020-10-26;06:02:41;Jejuar;60
+2020-10-26;03:01:30;Hora de dormir;174
+2020-10-26;02:05:52;Hora de dormir;96
+2020-10-26;00:53:50;Hora de dormir;175
+2020-10-25;23:38:13;NA;322
+2020-10-25;23:05:30;NA;383
+2020-10-25;18:04:16;Antes da refeição;133
+2020-10-25;15:11:53;Depois da refeição;244
+2020-10-25;12:03:30;Antes da refeição;121
+2020-10-25;09:48:04;Depois da refeição;160
+2020-10-25;06:05:08;Jejuar;111
+2020-10-25;01:48:56;Hora de dormir;158
+2020-10-24;22:39:36;NA;258
+2020-10-24;21:02:06;Depois da refeição;84
+2020-10-24;17:59:40;Antes da refeição;267
+2020-10-24;14:25:55;Depois da refeição;90
+2020-10-24;12:17:13;Antes da refeição;92
+2020-10-24;10:19:41;Depois da refeição,Pequeno-almoço;116
+2020-10-24;09:08:37;Jejuar;111
+2020-10-24;03:00:52;NA;156
+2020-10-24;01:44:50;Hora de dormir;219
+2020-10-23;17:55:23;Antes da refeição;79
+2020-10-23;16:42:28;Antes da refeição,Jantar;118
+2020-10-23;02:58:05;Hora de dormir;87
+2020-10-22;14:13:40;Almoço,Depois da refeição;245
+2020-10-22;03:00:17;Hora de dormir;102
+2020-10-21;14:50:45;Almoço,Depois da refeição;67
+2020-10-21;12:15:10;Almoço,Sensação de hipoglicemia,Antes da refeição;49
+2020-10-21;08:55:31;Jejuar;89
+2020-10-21;02:33:06;Hora de dormir;124
+2020-10-20;21:06:42;Depois da refeição,Jantar;261
+2020-10-20;18:43:10;Antes da refeição,Jantar;39
+2020-10-20;15:42:38;Almoço,Depois da refeição;101
+2020-10-20;11:15:07;Almoço,Antes da refeição;146
+2020-10-20;08:43:25;Jejuar;84
+2020-10-20;02:34:49;Hora de dormir;88
+2020-10-20;00:29:13;À noite;92
+2020-10-19;23:20:46;NA;207
+2020-10-19;19:35:12;Depois da refeição,Jantar;258
+2020-10-19;18:03:28;Antes da refeição,Jantar;138
+2020-10-19;16:37:05;Sensação de hipoglicemia;34
+2020-10-19;08:54:30;NA;84
+2020-10-19;08:04:01;Jejuar;113
+2020-10-19;02:57:39;Hora de dormir;99
+2020-10-19;01:17:02;À noite;179
+2020-10-18;22:20:29;NA;159
+2020-10-18;21:01:00;Depois da refeição,Jantar;137
+2020-10-18;18:11:26;Antes da refeição,Jantar;106
+2020-10-18;12:07:49;Almoço,Sensação de hipoglicemia,Antes da refeição;68
+2020-10-18;09:15:15;Sensação de hipoglicemia,Jejuar;51
+2020-10-18;03:19:48;Hora de dormir;118
+2020-10-18;01:42:08;À noite;251
+2020-10-17;22:54:41;NA;290
+2020-10-17;17:54:06;Sensação de hipoglicemia,Antes da refeição,Jantar;43
+2020-10-17;14:02:27;Almoço,Depois da refeição;106
+2020-10-17;12:10:00;Almoço,Antes da refeição;161
+2020-10-17;03:44:23;Hora de dormir;210
+2020-10-17;00:36:43;NA;246
+2020-10-16;18:29:02;Antes da refeição,Jantar;214
+2020-10-16;13:20:27;NA;173
+2020-10-16;10:02:48;NA;108
+2020-10-16;03:23:06;Hora de dormir;116
+2020-10-16;01:47:26;NA;157
+2020-10-16;00:03:46;NA;162
+2020-10-15;17:25:06;Antes da refeição,Jantar;116
+2020-10-15;15:32:25;NA;227
+2020-10-15;11:29:46;Almoço,Sensação de hipoglicemia,Antes da refeição;59
+2020-10-15;08:27:12;Sensação de hipoglicemia,Jejuar;65
+2020-10-15;02:19:44;Hora de dormir;134
+2020-10-14;23:05:10;NA;294
+2020-10-14;20:47:29;NA;197
+2020-10-14;18:58:54;NA;271
+2020-10-14;13:59:13;NA;72
+2020-10-14;10:50:57;NA;191
+2020-10-14;02:34:15;Hora de dormir;113
+2020-10-13;20:04:38;Depois da refeição,Jantar;147
+2020-10-13;18:11:08;Antes da refeição,Jantar;84
+2020-10-13;16:41:29;NA;120
+2020-10-13;11:40:52;Almoço,Sensação de hipoglicemia,Antes da refeição;64
+2020-10-13;09:03:11;Jejuar;166
+2020-10-13;02:16:32;Hora de dormir;100
+2020-10-13;00:41:56;NA;156
+2020-10-12;19:31:19;NA;118
+2020-10-12;16:30:39;NA;165
+2020-10-12;10:07:58;NA;149
+2020-10-12;08:56:06;Jejuar;147
+2020-10-12;01:56:37;Hora de dormir;70
+2020-10-12;00:05:16;NA;257
+2020-10-11;15:52:47;NA;130
+2020-10-11;14:31:10;NA;190
+2020-10-11;01:19:28;NA;165
+2020-10-10;21:58:44;NA;170
+2020-10-10;14:54:01;NA;138
+2020-10-10;13:07:28;Almoço,Antes da refeição;105
+2020-10-10;02:14:31;NA;104
+2020-10-10;01:17:05;NA;44
+2020-10-09;11:34:32;Almoço,Antes da refeição;119
+2020-10-09;08:53:49;Jejuar;57
+2020-10-09;01:42:47;NA;102
+2020-10-09;01:12:00;NA;56
+2020-10-08;23:29:36;NA;259
+2020-10-08;20:03:11;NA;81
+2020-10-08;15:29:38;NA;119
+2020-10-08;09:22:57;Sensação de hipoglicemia,Jejuar;52
+2020-10-08;03:15:11;Hora de dormir;214
+2020-10-08;01:25:34;NA;225
+2020-10-07;23:33:51;Sensação de hipoglicemia;59
+2020-10-07;18:18:21;Antes da refeição,Jantar;86
+2020-10-07;15:35:06;NA;78
+2020-10-07;13:24:32;NA;145
+2020-10-07;11:37:01;Almoço,Antes da refeição;207
+2020-10-07;07:53:10;Sensação de hipoglicemia,Jejuar;50
+2020-10-07;01:37:12;NA;137
+2020-10-06;20:41:54;NA;270
+2020-10-06;18:06:12;Sensação de hipoglicemia,Antes da refeição,Jantar;58
+2020-10-06;14:29:21;NA;156
+2020-10-06;12:14:42;Almoço,Antes da refeição;177
+2020-10-06;09:41:01;Jejuar;85
+2020-10-06;01:53:34;NA;221
+2020-10-05;21:21:40;Depois da refeição,Jantar;226
+2020-10-05;18:20:14;Sensação de hipoglicemia,Antes da refeição,Jantar;42
+2020-10-05;16:56:06;Snack,Depois da refeição;115
+2020-10-05;02:42:44;Hora de dormir;200
+2020-10-04;10:15:40;Depois da refeição;115
+2020-10-04;01:41:14;Hora de dormir;165
+2020-10-03;22:31:24;Depois da refeição;295
+2020-10-03;18:45:06;Antes da refeição;118
+2020-10-03;09:44:43;Jejuar;87
+2020-10-03;02:03:11;Hora de dormir;136
+2020-10-02;22:08:44;Depois da refeição;177
+2020-10-02;19:15:31;Antes da refeição;57
+2020-10-02;09:38:51;Jejuar;104
+2020-10-02;03:33:36;Hora de dormir;177
+2020-10-02;00:20:39;Hora de dormir;61
+2020-10-01;21:17:06;Depois da refeição;260
+2020-10-01;17:17:45;Antes da refeição;167
+2020-10-01;15:06:38;NA;142
+2020-10-01;12:53:32;Antes da refeição;99
+2020-10-01;08:40:54;Jejuar;177
+2020-10-01;03:51:04;NA;74
+2020-09-30;23:58:29;Hora de dormir;164
+2020-09-30;22:39:14;Depois da refeição;88
+2020-09-30;17:40:15;Antes da refeição;205
+2020-09-30;15:36:26;Depois da refeição;176
+2020-09-30;12:22:02;Antes da refeição;42
+2020-09-30;01:46:18;Hora de dormir;122
+2020-09-29;21:55:20;NA;64
+2020-09-29;19:57:59;NA;184
+2020-09-29;18:14:54;Antes da refeição;242
+2020-09-29;10:19:45;Depois da refeição;140
+2020-09-29;08:58:37;Jejuar;98
+2020-09-29;01:46:04;Hora de dormir;132
+2020-09-29;01:00:56;Hora de dormir;84
+2020-09-28;22:28:56;Depois da refeição;133
+2020-09-28;18:23:45;Antes da refeição;60
+2020-09-28;15:22:25;Depois da refeição;73
+2020-09-28;11:46:36;Antes da refeição;58
+2020-09-28;09:54:20;Depois da refeição;187
+2020-09-28;07:38:06;Jejuar;185
+2020-09-28;00:27:59;Hora de dormir;104
+2020-09-27;22:18:04;Depois da refeição;164
+2020-09-27;20:32:01;Depois da refeição;217
+2020-09-27;18:00:25;Antes da refeição;132
+2020-09-27;16:24:47;Depois da refeição;140
+2020-09-27;14:23:59;Depois da refeição;106
+2020-09-27;12:14:18;Antes da refeição;251
+2020-09-27;08:21:54;Jejuar;165
+2020-09-27;00:28:28;Hora de dormir;153
+2020-09-26;23:18:20;Depois da refeição;85
+2020-09-26;21:03:24;Depois da refeição;125
+2020-09-26;17:34:21;Antes da refeição;79
+2020-09-26;14:16:26;Depois da refeição;200
+2020-09-26;12:07:53;Antes da refeição;151
+2020-09-26;01:37:56;Hora de dormir;166
+2020-09-25;22:33:01;Depois da refeição;57
+2020-09-25;17:51:51;Antes da refeição;142
+2020-09-25;16:29:57;Antes da refeição;52
+2020-09-25;14:08:04;Depois da refeição;87
+2020-09-25;12:05:15;Antes da refeição;64
+2020-09-25;09:25:28;Depois da refeição;143
+2020-09-25;07:44:43;Jejuar;74
+2020-09-25;01:58:57;Hora de dormir;102
+2020-09-24;21:56:07;Depois da refeição;153
+2020-09-24;19:47:14;Depois da refeição;120
+2020-09-24;18:00:20;Antes da refeição;118
+2020-09-24;15:31:00;Antes da refeição;140
+2020-09-24;13:41:34;Depois da refeição;158
+2020-09-24;12:38:53;Antes da refeição;87
+2020-09-24;08:58:58;NA;158
+2020-09-24;08:44:56;Depois da refeição;156
+2020-09-24;06:39:22;Sensação de hipoglicemia,Jejuar;65
+2020-09-24;01:14:59;Hora de dormir;107
+2020-09-23;23:30:25;Hora de dormir;206
+2020-09-23;20:36:28;Depois da refeição;202
+2020-09-23;18:18:54;Antes da refeição;70
+2020-09-23;15:01:08;Depois da refeição;172
+2020-09-23;11:57:01;Antes da refeição;58
+2020-09-23;08:04:42;Jejuar;154
+2020-09-22;21:08:17;Depois da refeição;139
+2020-09-22;17:59:48;Antes da refeição;120
+2020-09-22;12:58:54;Antes da refeição;72
+2020-09-22;03:03:21;NA;166
+2020-09-22;02:11:19;Hora de dormir;89
+2020-09-21;23:55:33;Hora de dormir;221
+2020-09-21;19:23:05;Depois da refeição;174
+2020-09-21;15:00:46;Depois da refeição;156
+2020-09-21;08:07:21;Jejuar;94
+2020-09-21;03:47:49;Hora de dormir;147
+2020-09-21;01:52:04;Hora de dormir;254
+2020-09-20;17:57:48;Antes da refeição;129
+2020-09-20;15:48:23;Depois da refeição;130
+2020-09-20;12:21:48;Antes da refeição;172
+2020-09-20;09:17:58;Jejuar;69
+2020-09-20;03:18:33;Hora de dormir;121
+2020-09-20;02:09:04;Hora de dormir;169
+2020-09-19;22:56:14;Hora de dormir;291
+2020-09-19;20:05:55;Depois da refeição;128
+2020-09-19;17:46:31;Antes da refeição;331
+2020-09-19;11:46:07;Antes da refeição;111
+2020-09-19;07:22:40;Sensação de hipoglicemia,Jejuar;63
+2020-09-19;03:12:28;Hora de dormir;263
+2020-09-18;22:34:50;Depois da refeição;221
+2020-09-18;17:02:09;Antes da refeição;100
+2020-09-18;11:54:44;Antes da refeição;89
+2020-09-18;07:12:33;Depois da refeição;109
+2020-09-18;05:56:01;Jejuar;73
+2020-09-18;01:56:06;Hora de dormir;140
+2020-09-18;01:11:16;NA;66
+2020-09-17;23:42:40;Hora de dormir;109
+2020-09-17;20:48:03;Depois da refeição;198
+2020-09-17;18:06:46;Antes da refeição;110
+2020-09-17;14:46:40;Antes da refeição;132
+2020-09-17;11:36:14;Antes da refeição;93
+2020-09-17;09:04:00;Depois da refeição;162
+2020-09-17;08:20:23;Antes da refeição;156
+2020-09-17;06:45:47;Jejuar;69
+2020-09-17;02:16:30;Hora de dormir;141
+2020-09-17;00:21:13;Hora de dormir;205
+2020-09-16;20:53:37;Depois da refeição;95
+2020-09-16;18:00:14;Antes da refeição;118
+2020-09-16;15:15:50;Depois da refeição;105
+2020-09-16;11:57:29;Antes da refeição;50
+2020-09-16;09:53:18;NA;185
+2020-09-16;09:15:41;Depois da refeição;228
+2020-09-16;07:36:24;Jejuar;188
+2020-09-16;02:02:02;Hora de dormir;143
+2020-09-15;18:06:13;Antes da refeição;131
+2020-09-15;11:57:02;Antes da refeição;138
+2020-09-15;08:06:00;Jejuar;92
+2020-09-15;01:16:58;Hora de dormir;61
+2020-09-14;22:58:54;Hora de dormir;251
+2020-09-14;20:54:49;Antes da refeição;73
+2020-09-14;19:20:04;Depois da refeição;139
+2020-09-14;16:21:12;NA;123
+2020-09-14;12:44:46;Depois da refeição;186
+2020-09-12;12:52:47;Almoço,Sensação de hipoglicemia,Antes da refeição;45
+2020-09-12;07:43:57;Antes da refeição,Pequeno-almoço;84
+2020-09-11;17:51:52;Sensação de hipoglicemia,Antes da refeição,Jantar;62
+2020-09-11;13:08:58;Almoço,Antes da refeição;49
+2020-09-11;07:31:03;Antes da refeição,Pequeno-almoço;110
+2020-09-10;18:01:17;Antes da refeição,Jantar;196
+2020-09-10;12:52:24;Almoço,Sensação de hipoglicemia,Antes da refeição;38
+2020-09-10;07:31:02;Sensação de hipoglicemia,Antes da refeição,Pequeno-almoço;46
+2020-09-09;18:13:57;Antes da refeição,Jantar;74
+2020-09-09;12:22:52;Almoço,Antes da refeição;153
+2020-09-09;07:34:14;Jejuar;162
+2020-09-08;18:17:45;Depois da refeição,Jantar;80
+2020-09-08;12:08:18;Almoço,Sensação de hipoglicemia,Antes da refeição;79
+2020-09-07;17:52:20;Antes da refeição,Jantar;156
+2020-09-07;12:48:07;Almoço,Antes da refeição;77
+2020-09-07;08:42:31;Sensação de hiperglicemia,Jejuar;215
+2020-09-06;21:40:14;NA;78
+2020-09-06;17:06:48;Antes da refeição,Jantar;102
+2020-09-06;12:32:33;Almoço,Antes da refeição;116
+2020-09-06;07:04:58;Sensação de hipoglicemia,Jejuar;57
+2020-09-05;18:58:29;Sensação de hipoglicemia,Antes da refeição,Jantar;67
+2020-09-05;12:32:29;Almoço,Sensação de hipoglicemia,Antes da refeição;46
+2020-09-05;08:03:13;Jejuar;122
+2020-09-04;17:53:08;NA;111
+2020-09-04;12:01:38;Almoço,Antes da refeição;110
+2020-09-04;11:22:52;NA;NA
+2020-09-04;11:08:52;Almoço,Antes da refeição;99
+2020-09-04;06:53:19;Sensação de hipoglicemia,Jejuar;48
+2020-09-03;23:16:52;NA;57
+2020-09-03;20:37:20;NA;122
+2020-09-03;17:44:52;Antes da refeição,Jantar;100
+2020-09-03;16:52:44;NA;95
+2020-09-03;12:27:17;Almoço,Antes da refeição;44
+2020-09-03;08:07:57;Sensação de hipoglicemia,Jejuar;67
+2020-09-03;01:52:32;Hora de dormir;88
+2020-09-02;18:19:14;Antes da refeição,Jantar;78
+2020-09-02;12:11:13;Almoço,Sensação de hipoglicemia,Antes da refeição;53
+2020-09-02;07:56:56;Sensação de hipoglicemia,Jejuar;53
+2020-09-01;18:05:06;Antes da refeição,Jantar;110
+2020-09-01;12:27:43;Almoço,Sensação de hipoglicemia,Antes da refeição;71
+2020-09-01;08:03:21;Jejuar;82
+2020-08-31;22:31:50;NA;NA
+2020-08-31;22:30:56;NA;207
+2020-08-31;20:31:03;NA;NA
+2020-08-31;18:16:25;Jantar;NA
+2020-08-31;17:48:37;Sensação de hipoglicemia,Antes da refeição,Jantar;51
+2020-08-31;09:48:15;NA;NA
+2020-08-30;13:05:12;Almoço,Sensação de hipoglicemia,Antes da refeição;63
+2020-08-30;08:00:40;NA;NA
+2020-08-30;02:35:53;Hora de dormir;174
+2020-08-30;00:16:40;NA;82
+2020-08-29;19:37:20;NA;214
+2020-08-29;16:18:03;NA;105
+2020-08-29;14:21:47;NA;159
+2020-08-29;12:40:34;NA;192
+2020-08-29;09:30:18;NA;115
+2020-08-29;02:12:03;NA;205
+2020-08-28;20:11:37;NA;269
+2020-08-28;13:15:11;NA;223
+2020-08-28;02:56:54;NA;138
+2020-08-28;00:57:59;NA;89
+2020-08-27;21:15:37;NA;254
+2020-08-27;17:13:15;Sensação de hipoglicemia;53
+2020-08-27;14:12:47;NA;124
+2020-08-27;07:42:01;Sensação de hipoglicemia,Jejuar;45
+2020-08-27;01:58:05;NA;100
+2020-08-26;22:29:42;NA;166
+2020-08-26;21:13:25;NA;131
+2020-08-26;16:30:11;NA;232
+2020-08-26;10:45:57;NA;81
+2020-08-26;03:50:42;Sensação de hipoglicemia;51
+2020-08-25;21:48:19;NA;228
+2020-08-25;19:06:01;NA;87
+2020-08-25;16:26:43;NA;92
+2020-08-25;15:07:27;NA;170
+2020-08-25;03:08:07;NA;169
+2020-08-25;02:08:46;Sensação de hipoglicemia;64
+2020-08-24;23:36:16;NA;153
+2020-08-24;21:04:55;NA;164
+2020-08-24;19:15:35;NA;107
+2020-08-24;17:17:08;Sensação de hipoglicemia;54
+2020-08-24;10:21:52;NA;153
+2020-08-24;01:15:34;Hora de dormir;149
+2020-08-23;23:51:35;Hora de dormir;173
+2020-08-23;21:23:13;Depois da refeição,Jantar;88
+2020-08-23;16:55:56;Antes da refeição,Jantar;151
+2020-08-23;11:19:15;Almoço,Antes da refeição;153
+2020-08-23;03:30:45;Hora de dormir;237
+2020-08-23;02:02:17;NA;76
+2020-08-22;20:56:49;Snack,Antes da refeição;153
+2020-08-22;16:45:30;Antes da refeição,Jantar;186
+2020-08-22;15:37:08;Almoço,Depois da refeição;175
+2020-08-22;12:48:45;Almoço,Sensação de hipoglicemia,Antes da refeição;43
+2020-08-22;09:13:44;Antes da refeição,Pequeno-almoço;161
+2020-08-21;23:05:23;Hora de dormir;242
+2020-08-21;20:54:46;Sensação de hipoglicemia,Snack,Antes da refeição;61
+2020-08-21;17:06:24;Antes da refeição,Jantar;129
+2020-08-21;15:04:58;Almoço,Sensação de hipoglicemia,Antes da refeição;53
+2020-08-21;05:08:38;NA;147
+2020-08-21;04:19:05;NA;154
+2020-08-21;02:56:32;Hora de dormir;110
+2020-08-20;15:59:57;NA;191
+2020-08-20;14:42:28;Almoço,Depois da refeição;120
+2020-08-20;10:27:00;Almoço,Antes da refeição;204
+2020-08-20;03:12:15;Sensação de hipoglicemia;55
+2020-08-20;01:10:56;Hora de dormir;184
+2020-08-19;22:30:16;Hora de dormir;96
+2020-08-19;20:43:52;Depois da refeição,Jantar;149
+2020-08-19;18:39:24;Antes da refeição,Jantar;129
+2020-08-19;12:56:49;Almoço,Antes da refeição;70
+2020-08-19;02:15:55;NA;242
+2020-08-19;01:48:27;NA;289
+2020-08-18;23:22:19;Hora de dormir;105
+2020-08-18;17:56:55;Antes da refeição,Jantar;141
+2020-08-18;14:23:25;Almoço,Depois da refeição;114
+2020-08-18;12:46:02;NA;135
+2020-08-18;11:59:25;Almoço,Sensação de hipoglicemia,Antes da refeição;70
+2020-08-18;08:54:02;Antes da refeição,Pequeno-almoço;121
+2020-08-18;02:23:44;NA;145
+2020-08-18;01:26:22;NA;182
+2020-08-17;15:21:44;Sensação de hipoglicemia;60
+2020-08-17;12:55:21;NA;196
+2020-08-17;11:48:52;Almoço,Antes da refeição;178
+2020-08-17;06:35:01;Antes da refeição,Pequeno-almoço;104
+2020-08-17;01:29:37;NA;148
+2020-08-16;21:14:50;NA;101
+2020-08-16;18:12:25;Antes da refeição,Jantar;218
+2020-08-16;16:01:01;NA;55
+2020-08-16;10:37:27;Almoço,Antes da refeição;114
+2020-08-15;21:08:07;NA;168
+2020-08-15;04:22:34;NA;130
+2020-08-14;22:01:09;NA;70
+2020-08-14;20:36:45;NA;122
+2020-08-14;20:31:38;NA;278
+2020-08-14;18:06:08;Antes da refeição,Jantar;183
+2020-08-14;15:37:41;NA;123
+2020-08-14;13:02:02;Almoço,Antes da refeição;85
+2020-08-14;04:46:27;NA;308
+2020-08-13;21:42:56;NA;166
+2020-08-13;17:07:44;Antes da refeição,Jantar;105
+2020-08-13;16:06:59;NA;74
+2020-08-13;03:33:01;Hora de dormir;156
+2020-08-12;03:38:12;NA;110
+2020-08-11;23:24:07;Depois da refeição;196
+2020-08-11;04:23:00;NA;94
+2020-08-10;21:00:39;Depois da refeição;199
+2020-08-10;03:51:34;NA;246
+2020-08-09;20:09:49;Depois da refeição;50
+2020-08-09;04:02:52;NA;70
+2020-08-08;23:24:33;NA;205
+2020-08-08;11:20:30;Antes da refeição;99
+2020-08-07;21:08:10;Depois da refeição;200
+2020-08-07;04:46:48;Hora de dormir;168
+2020-08-06;22:51:20;Depois da refeição;183
+2020-08-06;17:12:01;Antes da refeição;109
+2020-08-06;08:05:31;Jejuar;51
+2020-08-06;04:08:56;NA;171
+2020-08-05;23:31:17;Hora de dormir;150
+2020-08-05;19:57:13;Depois da refeição;142
+2020-08-05;03:26:39;NA;78
+2020-08-05;01:34:54;Hora de dormir;97
+2020-08-04;20:33:50;Depois da refeição;129
+2020-08-04;18:44:42;Depois da refeição;106
+2020-08-04;14:35:56;Depois da refeição;121
+2020-08-04;12:39:13;Antes da refeição;41
+2020-08-04;03:11:24;NA;110
+2020-08-03;22:08:16;NA;162
+2020-08-03;16:00:40;Depois da refeição;164
+2020-08-03;02:21:51;NA;204
+2020-08-02;20:34:01;Depois da refeição;153
+2020-08-02;16:02:14;Depois da refeição;249
+2020-08-02;02:44:18;NA;252
+2020-08-02;00:50:37;Hora de dormir;119
+2020-08-01;23:36:42;NA;177
+2020-08-01;21:25:37;Depois da refeição;106
+2020-08-01;14:28:17;NA;278
+2020-07-31;23:54:39;Depois da refeição;152
+2020-07-31;17:19:47;Antes da refeição;172
+2020-07-31;15:53:49;Depois da refeição;234
+2020-07-31;12:37:18;Antes da refeição;192
+2020-07-31;09:11:08;Jejuar;71
+2020-07-31;04:40:35;NA;225
+2020-07-31;03:59:00;Hora de dormir;216
+2020-07-31;03:30:42;NA;188
+2020-07-31;00:29:16;Hora de dormir;55
+2020-07-30;16:02:20;Depois da refeição;177
+2020-07-30;10:30:22;Depois da refeição;150
+2020-07-30;08:34:24;Jejuar;51
+2020-07-30;02:14:24;Hora de dormir;82
+2020-07-30;00:27:14;Hora de dormir;132
+2020-07-27;23:04:49;Depois da refeição;170
+2020-07-27;13:08:45;Antes da refeição;49
+2020-07-27;02:59:41;Hora de dormir;108
+2020-07-27;00:23:17;Depois da refeição;223
+2020-07-26;21:13:28;Depois da refeição;87
+2020-07-26;16:12:09;Depois da refeição;225
+2020-07-26;02:47:56;Hora de dormir;256
+2020-07-26;00:04:49;Depois da refeição;94
+2020-07-25;21:25:03;Depois da refeição;48
+2020-07-25;18:25:44;Antes da refeição;168
+2020-07-25;16:15:09;Depois da refeição;101
+2020-07-25;11:12:32;Depois da refeição;98
+2020-07-25;01:33:54;Hora de dormir;172
+2020-07-24;21:46:17;Depois da refeição;136
+2020-07-24;20:41:33;Depois da refeição;96
+2020-07-24;16:59:15;Depois da refeição;141
+2020-07-24;14:56:43;Depois da refeição;189
+2020-07-24;09:03:30;Antes da refeição;106
+2020-07-24;01:13:48;Hora de dormir;128
+2020-07-23;17:47:22;Antes da refeição;48
+2020-07-23;15:31:54;Depois da refeição;224
+2020-07-23;09:03:33;Jejuar;57
+2020-07-23;04:01:01;Hora de dormir;192
+2020-07-23;01:06:23;Hora de dormir;176
+2020-07-22;23:10:45;NA;144
+2020-07-22;21:23:47;Depois da refeição;296
+2020-07-22;16:51:43;Depois da refeição;124
+2020-07-20;20:23:25;NA;57
+2020-07-19;14:57:42;Depois da refeição;212
+2020-07-19;03:14:21;Hora de dormir;131
+2020-07-18;00:35:07;Hora de dormir;276
+2020-07-17;16:00:49;Depois da refeição;259
+2020-07-17;01:14:47;Hora de dormir;137
+2020-07-16;23:11:57;Hora de dormir;109
+2020-07-16;20:07:18;Depois da refeição;153
+2020-07-16;17:23:13;Depois da refeição;93
+2020-07-16;09:43:56;Depois da refeição;95
+2020-07-16;00:54:58;Hora de dormir;100
+2020-07-15;20:17:31;Depois da refeição;158
+2020-07-15;19:09:40;Antes da refeição;67
+2020-07-15;16:47:03;Depois da refeição;141
+2020-07-15;02:15:04;NA;108
+2020-07-15;00:26:37;Hora de dormir;206
+2020-07-14;19:49:07;Depois da refeição;132
+2020-07-14;15:15:38;Depois da refeição;178
+2020-07-14;03:16:51;Hora de dormir;169
+2020-07-13;22:48:25;Depois da refeição;45
+2020-07-13;16:36:57;Depois da refeição;142
+2020-07-13;12:23:08;Antes da refeição;232
+2020-07-13;00:27:28;Depois da refeição;150
+2020-07-12;22:06:08;NA;83
+2020-07-12;20:58:15;Depois da refeição;121
+2020-07-12;14:39:43;Depois da refeição;157
+2020-07-12;10:32:15;Antes da refeição;57
+2020-07-12;04:05:03;NA;108
+2020-07-12;01:07:26;NA;164
+2020-07-11;21:46:56;Hora de dormir;106
+2020-07-11;19:29:38;Depois da refeição;157
+2020-07-11;14:04:50;Depois da refeição;113
+2020-07-11;08:03:41;Jejuar;59
+2020-07-11;02:32:57;Hora de dormir;110
+2020-07-10;23:07:29;Depois da refeição;184
+2020-07-10;17:08:41;Antes da refeição;188
+2020-07-10;14:17:27;Depois da refeição;115
+2020-07-10;03:27:29;Hora de dormir;120
+2020-07-10;01:30:49;Hora de dormir;207
+2020-07-09;19:09:56;Antes da refeição;196
+2020-07-09;16:14:48;Depois da refeição;88
+2020-07-09;09:59:59;Jejuar;109
+2020-07-09;03:53:35;Hora de dormir;118
+2020-07-09;01:30:13;NA;203
+2020-07-09;00:09:26;Hora de dormir;80
+2020-07-08;20:20:24;NA;240
+2020-07-08;15:31:49;Depois da refeição;140
+2020-07-08;03:12:36;Hora de dormir;83
+2020-07-07;23:25:11;Depois da refeição;239
+2020-07-07;20:31:59;Depois da refeição;128
+2020-07-07;14:48:14;Depois da refeição;217
+2020-07-07;02:19:10;Hora de dormir;136
+2020-07-07;00:28:55;Hora de dormir;141
+2020-07-06;18:23:11;Antes da refeição;241
+2020-07-06;12:56:51;Antes da refeição;189
+2020-07-06;08:23:07;NA;227
+2020-07-06;05:09:19;NA;44
+2020-07-06;04:48:05;NA;49
+2020-07-06;02:31:23;NA;292
+2020-07-05;16:05:28;Depois da refeição;76
+2020-07-05;12:17:19;Antes da refeição;190
+2020-07-05;04:05:37;NA;113
+2020-07-04;22:47:49;NA;218
+2020-07-04;21:58:50;NA;271
+2020-07-04;17:49:22;Depois da refeição;123
+2020-07-04;03:00:09;Hora de dormir;110
+2020-07-03;23:24:41;Hora de dormir;126
+2020-07-03;21:48:24;Depois da refeição;72
+2020-07-03;15:16:00;Depois da refeição;246
+2020-07-03;03:09:46;NA;129
+2020-07-02;23:47:20;Hora de dormir;161
+2020-07-02;22:16:51;Depois da refeição;141
+2020-07-02;10:45:40;Jejuar;54
+2020-07-02;02:42:52;NA;131
+2020-07-02;02:06:15;Hora de dormir;68
+2020-07-01;18:18:43;Antes da refeição;147
+2020-07-01;16:15:03;Antes da refeição;70
+2020-07-01;14:30:00;Depois da refeição;166
+2020-06-30;23:38:28;Hora de dormir;205
+2020-06-30;21:25:54;Depois da refeição;113
+2020-06-30;19:26:22;Depois da refeição;130
+2020-06-30;12:19:50;Antes da refeição;117
+2020-06-30;03:23:31;Hora de dormir;170
+2020-06-30;00:17:06;NA;132
+2020-06-29;20:17:59;Depois da refeição;156
+2020-06-29;03:47:32;Hora de dormir;125
+2020-06-29;03:01:16;Hora de dormir;110
+2020-06-28;23:36:36;Depois da refeição;216
+2020-06-28;22:37:19;Depois da refeição;115
+2020-06-28;16:40:50;Depois da refeição;171
+2020-06-28;11:49:26;Antes da refeição;109
+2020-06-28;03:55:56;Hora de dormir;172
+2020-06-28;02:44:10;Hora de dormir;184
+2020-06-27;21:32:35;Depois da refeição;163
+2020-06-27;16:02:34;Depois da refeição;140
+2020-06-27;13:32:21;Antes da refeição;46
+2020-06-27;02:09:13;Hora de dormir;119
+2020-06-26;22:47:13;Depois da refeição;325
+2020-06-26;19:41:48;Depois da refeição;80
+2020-06-26;16:56:38;Depois da refeição;103
+2020-06-26;15:07:37;NA;92
+2020-06-26;11:18:17;Antes da refeição;160
+2020-06-26;09:31:31;Jejuar;90
+2020-06-26;02:07:47;Hora de dormir;216
+2020-06-25;22:09:53;Depois da refeição;186
+2020-06-25;18:23:56;Antes da refeição;167
+2020-06-25;15:44:03;Depois da refeição;114
+2020-06-25;08:14:36;Jejuar;66
+2020-06-25;03:50:28;NA;134
+2020-06-25;01:07:00;Hora de dormir;131
+2020-05-19;01:34:31;Hora de dormir;213
+2020-05-18;23:43:49;Hora de dormir;100
+2020-05-18;12:23:01;Antes da refeição;101
+2020-05-18;02:18:55;NA;199
+2020-05-18;00:29:10;Hora de dormir;63
+2020-05-17;18:45:19;Antes da refeição;77
+2020-05-17;13:32:03;Antes da refeição;201
+2020-05-17;01:42:04;Hora de dormir;98
+2020-05-16;22:42:33;NA;349
+2020-05-16;19:56:53;Depois da refeição;421
+2020-05-16;02:21:50;Hora de dormir;202
+2020-05-16;00:53:35;Hora de dormir;155
+2020-05-15;17:35:54;Antes da refeição;123
+2020-05-15;10:35:28;Antes da refeição;204
+2020-05-15;01:31:59;Hora de dormir;143
+2020-05-14;22:13:23;Depois da refeição;206
+2020-05-14;15:24:39;Depois da refeição;95
+2020-05-14;07:05:34;Jejuar;118
+2020-05-14;01:29:17;Hora de dormir;269
+2020-05-13;19:35:06;Depois da refeição;190
+2020-05-13;01:44:25;Hora de dormir;155
+2020-05-12;23:57:22;Hora de dormir;114
+2020-05-12;20:23:07;Depois da refeição;229
+2020-05-12;15:11:46;Depois da refeição;93
+2020-05-12;02:10:06;NA;191
+2020-05-12;00:04:12;Hora de dormir;160
+2020-05-11;08:16:14;Jejuar;136
+2020-05-11;01:38:09;Hora de dormir;157
+2020-05-10;21:11:28;Depois da refeição;210
+2020-05-10;01:16:20;Hora de dormir;192
+2020-05-09;20:51:13;Depois da refeição;212
+2020-05-09;17:16:24;Antes da refeição;106
+2020-05-09;09:57:18;Depois da refeição;185
+2020-05-09;00:59:34;Hora de dormir;234
+2020-05-08;18:51:07;Depois da refeição;103
+2020-05-08;17:21:55;Antes da refeição;48
+2020-05-08;14:30:27;Depois da refeição;70
+2020-05-08;07:59:06;Depois da refeição;153
+2020-05-08;01:22:13;Hora de dormir;179
+2020-05-08;00:44:47;Hora de dormir;143
+2020-05-07;15:08:34;Depois da refeição;102
+2020-05-07;07:49:28;NA;110
+2020-05-07;01:57:28;Hora de dormir;201
+2020-05-06;22:12:05;Depois da refeição;129
+2020-05-06;17:06:30;Antes da refeição;142
+2020-05-06;14:17:29;Depois da refeição;149
+2020-05-06;12:36:47;Antes da refeição;176
+2020-05-06;11:20:24;Depois da refeição;209
+2020-05-06;09:31:16;Jejuar;115
+2020-05-06;02:15:08;Hora de dormir;166
+2020-05-05;20:10:09;Depois da refeição;125
+2020-05-05;14:49:13;Depois da refeição;117
+2020-05-05;12:46:27;Antes da refeição;78
+2020-05-05;10:39:36;Antes da refeição;91
+2020-05-05;07:36:25;Jejuar;74
+2020-05-05;00:38:39;NA;140
+2020-05-04;20:06:28;NA;136
+2018-04-17;12:29:29;NA;40
